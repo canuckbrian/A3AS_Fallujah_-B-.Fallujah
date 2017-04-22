@@ -101,7 +101,7 @@ class Mission
 {
 	class Intel
 	{
-		briefingName="[SP/CO8] A3 - Antistasi Fallujah";
+		briefingName="[SP/CO50] A3 - Antistasi Fallujah (Blue)";
 		overviewText="Build FIA Army from scratch and defeat the AAF and CSAT forces in a whole map Dynamic Mission.";
 		resistanceWest=0;
 		resistanceEast=1;
