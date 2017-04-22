@@ -966,7 +966,7 @@ class Mission
 			name="respawn_west";
 			text="Your Headquarters";
 			type="hd_flag";
-			colorName="ColorGUER";
+			colorName="ColorWEST";
 			id=178;
 			atlOffset=1.8539791e+031;
 		};
